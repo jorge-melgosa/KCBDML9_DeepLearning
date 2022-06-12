@@ -18,7 +18,7 @@ Criterios de corrección:
 Tened en cuenta que se valorará, más que la precisión, la explicación de por qué se ha optado por utilizar una arquitectura u otra y las decisiones tomadas.
 
 ### Resumen de la implementación:
-Hemos realizado la tarea en [Google Colab](https://colab.research.google.com/) llamado [DeepLearning-Practica-Mel.ipynb](https://github.com/jorge-melgosa/KCBDML9_data-mining/blob/main/PracticaML-JorgeMelgosa.ipynb)
+Hemos realizado la tarea en [Google Colab](https://colab.research.google.com/) llamado [DeepLearning-Practica-Mel.ipynb](https://github.com/jorge-melgosa/KCBDML9_DeepLearning/blob/main/DeepLearning_Practica_Mel.ipynb)
 
 El colab tiene toda la información necesaria para entender el desarrollo realizado con el objetivo de realizar la practica planteada. 
 
