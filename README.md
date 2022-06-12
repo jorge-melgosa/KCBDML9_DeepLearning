@@ -1,9 +1,6 @@
-# KCBDML9_DeepLearning
-
 # Modulo: Deep Learning
 `Fecha maxima de entrega: 12 de Junio 2022`
 
-##Practica
 ### Enunciado:
 Implementar un algoritmo predictivo que sea capaz de estimar el precio de las habitaciones utilizando para ello datos de distintos tipos y técnicas de Deep Learning (redes neuronales profundas).
 
